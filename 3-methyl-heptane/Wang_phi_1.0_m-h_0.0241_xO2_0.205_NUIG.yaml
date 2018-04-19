@@ -1,13 +1,21 @@
 ---
-file-author:
-    name: Nathan Harms
-    ORCID: 0000-0003-2680-371X
+file-authors:
+    - name: Nathan Harms
+      ORCID: 0000-0003-2680-371X
 file-version: 0
 chemked-version: 0.0.1
 reference:
     doi: 10.1016/j.proci.2012.06.001
     authors:
-        - name: Weijing Wang et al.
+        - name: Weijing Wang
+        - name: Zhenhua Li
+        - name: Matthew A. Oehlschlaeger
+        - name: Darren Healy
+        - name: Henry J. Curran
+        - name: S. Mani Sarathy
+        - name: Marco Mehl
+        - name: William J. Pitz
+        - name: Charles K. Westbrook
     journal: Proceedings of the Combustion Institute
     year: 2013
     volume: 34
@@ -16,7 +24,7 @@ reference:
 experiment-type: ignition delay
 apparatus:
     kind: shock tube
-    institution: NUIG
+    institution: National University of Ireland Galway
     facility: stainless steel shock tube
 common-properties:
     composition: &comp
@@ -39,110 +47,110 @@ common-properties:
         type: d/dt max
 datapoints:
     - temperature:
-        - 7.34 kelvin
+        - 1091.0 kelvin
       ignition-delay:
         - 1176.0 us
       pressure:
-        - 1091.0 atm
+        - 7.34 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 7.02 kelvin
+        - 1094.0 kelvin
       ignition-delay:
         - 880.0 us
       pressure:
-        - 1094.0 atm
+        - 7.02 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 7.06 kelvin
+        - 1123.0 kelvin
       ignition-delay:
         - 562.0 us
       pressure:
-        - 1123.0 atm
+        - 7.06 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 6.53 kelvin
+        - 1246.0 kelvin
       ignition-delay:
         - 184.0 us
       pressure:
-        - 1246.0 atm
+        - 6.53 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 11.16 kelvin
+        - 955.0 kelvin
       ignition-delay:
         - 2550.0 us
       pressure:
-        - 955.0 atm
+        - 11.16 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 11.21 kelvin
+        - 1039.0 kelvin
       ignition-delay:
         - 1029.0 us
       pressure:
-        - 1039.0 atm
+        - 11.21 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 11.09 kelvin
+        - 1040.0 kelvin
       ignition-delay:
         - 1115.0 us
       pressure:
-        - 1040.0 atm
+        - 11.09 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 10.22 kelvin
+        - 1118.0 kelvin
       ignition-delay:
         - 391.0 us
       pressure:
-        - 1118.0 atm
+        - 10.22 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 9.54 kelvin
+        - 1125.0 kelvin
       ignition-delay:
         - 370.0 us
       pressure:
-        - 1125.0 atm
+        - 9.54 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 10.12 kelvin
+        - 1204.0 kelvin
       ignition-delay:
         - 193.0 us
       pressure:
-        - 1204.0 atm
+        - 10.12 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 8.87 kelvin
+        - 1294.0 kelvin
       ignition-delay:
         - 68.0 us
       pressure:
-        - 1294.0 atm
+        - 8.87 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
     - temperature:
-        - 8.28 kelvin
+        - 1356.0 kelvin
       ignition-delay:
         - 40.0 us
       pressure:
-        - 1356.0 atm
+        - 8.28 atm
       composition: *comp
       ignition-type: *ign
       equivalence-ratio: 1.0
