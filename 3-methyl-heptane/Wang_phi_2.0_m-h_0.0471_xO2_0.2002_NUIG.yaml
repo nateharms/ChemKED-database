@@ -50,6 +50,8 @@ datapoints:
         - 1077.0 kelvin
       ignition-delay:
         - 1311.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 7.28 atm
       composition: *comp
@@ -59,6 +61,8 @@ datapoints:
         - 1135.0 kelvin
       ignition-delay:
         - 735.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 6.84 atm
       composition: *comp
@@ -68,6 +72,8 @@ datapoints:
         - 1148.0 kelvin
       ignition-delay:
         - 483.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 5.51 atm
       composition: *comp
@@ -77,6 +83,8 @@ datapoints:
         - 1225.0 kelvin
       ignition-delay:
         - 222.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 4.56 atm
       composition: *comp
@@ -86,6 +94,8 @@ datapoints:
         - 1001.0 kelvin
       ignition-delay:
         - 1146.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 10.19 atm
       composition: *comp
@@ -95,6 +105,8 @@ datapoints:
         - 1054.0 kelvin
       ignition-delay:
         - 823.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 10.03 atm
       composition: *comp
@@ -104,6 +116,8 @@ datapoints:
         - 1089.0 kelvin
       ignition-delay:
         - 497.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 9.32 atm
       composition: *comp
@@ -113,6 +127,8 @@ datapoints:
         - 1237.0 kelvin
       ignition-delay:
         - 152.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 9.24 atm
       composition: *comp
@@ -122,6 +138,8 @@ datapoints:
         - 1351.0 kelvin
       ignition-delay:
         - 47.0 us
+        - uncertainty-type: relative
+          uncertainty: 0.2
       pressure:
         - 7.57 atm
       composition: *comp
