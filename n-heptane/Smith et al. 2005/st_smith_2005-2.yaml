@@ -1,7 +1,7 @@
-file-author:
-  name: KE Niemeyer, Oregon State University
+file-authors:
+  - name: KE Niemeyer, Oregon State University
 file-version: 0
-chemked-version: 0.3.0
+chemked-version: 0.4.1
 reference:
   authors:
   - name: John M. Smith
@@ -334,17 +334,4 @@ datapoints:
   temperature:
   - 1.2420e+03 K
 experiment-type: ignition delay
-file-author:
-  name: KE Niemeyer, Oregon State University
-file-version: 0
-reference:
-  authors:
-  - name: John M. Smith
-  - name: John M. Simmie
-  - name: Henry J. Curran
-  detail: Converted from ReSpecTh XML file st_smith_2005-2.xml
-  doi: 10.1002/kin.20120
-  journal: International Journal of Chemical Kinetics
-  pages: 728-736
-  volume: 37
-  year: 2005
+

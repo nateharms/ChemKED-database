@@ -1,7 +1,7 @@
-file-author:
-    name: KE Niemeyer, Oregon State University
+file-authors:
+  - name: KE Niemeyer, Oregon State University
 file-version: 0
-chemked-version: 0.3.0
+chemked-version: 0.4.1
 reference:
   authors:
   - name: B.M. Gauthier
@@ -71,17 +71,3 @@ datapoints:
   temperature:
   - 1.3780e+03 K
 experiment-type: ignition delay
-file-author:
-  name: KE Niemeyer, Oregon State University
-file-version: 0
-reference:
-  authors:
-  - name: B.M. Gauthier
-  - name: D.F. Davidson
-  - name: R.K. Hanson
-  detail: Converted from ReSpecTh XML file st_gauthier_2004-1.xml
-  doi: 10.1016/j.combustflame.2004.08.015
-  journal: Combustion and Flame
-  pages: 300-311
-  volume: 139
-  year: 2004
